@@ -21,3 +21,6 @@ A StaffActivity system for FiveM.
 - *allows you to see your avaialble Staff Blip Tags*
 4. /staffbliptag [ID] 
 - *allows you to change your Blip Tag*
+
+**Credits:**
+@Minipunch for the client side API | @OfficialBadger for the Server Side API/Script
